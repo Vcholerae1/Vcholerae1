@@ -1,7 +1,7 @@
 ### Hi there 👋 
 - 🔭 I’m currently studying geophysics at Central South University
 - 🌱 I’m currently learning Operating System and Veilog
-- 😄 you can reach me at [V.cholerae](vcholerae1.github.io)
+- 😄 you can reach me at ([vcholerae1.github.io](https://vcholerae1.github.io/))
 <!--
 **Vcholerae1/Vcholerae1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
