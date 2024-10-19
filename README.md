@@ -1,6 +1,6 @@
 ### Hi there 👋 
 - 🔭 I’m currently studying geophysics at Central South University
-- 🌱 I’m currently learning Operating System and Verilog
+- 🌱 I’m currently learning Optimization and Verilog (Optimazation is too hard🤔)
 - 😄 you can reach me at ([V.cholerae](https://vcholerae1.github.io/))
 <!--
 **Vcholerae1/Vcholerae1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
