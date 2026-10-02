@@ -1,5 +1,5 @@
 ### Hi there 👋 
-- 🔭 I’m currently studying geophysics at Central South University
+- 🔭 I’m currently studying geophysics
 - 💬 Learning CUDA programing.
 - 😄 You can email me at v.cholerae1@gmail.com
 <!--
