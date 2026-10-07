@@ -1,7 +1,6 @@
 ### Hi there 👋 
 - 🔭 I’m currently studying geophysics
 - 💬 Learning CUDA programing.
-- 😄 You can email me at v.cholerae1@gmail.com
 <!--
 **Vcholerae1/Vcholerae1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
